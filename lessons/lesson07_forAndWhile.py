@@ -23,9 +23,10 @@
 #         res+=1
 # print(res)
 
-numbers = [12, 5, 8,50, 21, 4, 17, 30]
-maxNumber = 0
-for number in numbers:
-    if number >= maxNumber:
-        maxNumber = number
-print(maxNumber)
+# numbers = [12, 5, 8, 21, 4, 17, 30]
+# maxNumber = 0
+# for number in numbers:
+#     if number >= maxNumber:
+#         maxNumber = number
+# print(maxNumber)
+
