@@ -32,15 +32,17 @@
 
 # def evenOrNot(num):
 #     if num % 2 == 0:
-#         return num
+#         return "Чётное"
+#     else:
+#         return "Нечётное"
 
 # print(evenOrNot(10))
 
-def turnaround(line):
-    N = len(line)
-    result = ""
-    for index in range(N - 1, -1, -1):
-        result += line[index]
-    return result
+# def turnaround(line):
+#     N = len(line)
+#     result = ""
+#     for index in range(N - 1, -1, -1):
+#         result += line[index]
+#     return result
 
-print(turnaround("Лох"))
+# print(turnaround("Лох"))
