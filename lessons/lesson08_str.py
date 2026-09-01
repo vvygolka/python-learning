@@ -19,7 +19,7 @@
 #         total += 1
 # print(total)
 
-line = str(input("Введите строку: "))
-N = len(line)
-for index in range(N - 1, -1, -1):
-        print(line[index])
+# line = str(input("Введите строку: "))
+# N = len(line)
+# for index in range(N - 1, -1, -1):
+#         print(line[index])
