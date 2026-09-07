@@ -1,4 +1,4 @@
-my = {
+my_profile = {
     "name": "Влад",
     "age": 28,
     "city": "Москва",
@@ -16,8 +16,8 @@ my = {
 # else:
 #     print("Возраст неизвестен")
 
-for key in my:
-    print(key)
+# for key in my:
+#     print(key)
 
 # for key, value in my.items():
 #     print(key, value)
