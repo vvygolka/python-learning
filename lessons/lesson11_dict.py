@@ -5,19 +5,20 @@ my_profile = {
     "profession": "QA"
 }
 
-# print(my["name"])
-# print(my["profession"])
+# print(my_profile["name"])
+# print(my_profile["profession"])
 
-# my["city"] = "Питер"
-# print(my["city"])
+# my_profile["city"] = "Питер"
+# my_profile["language"] = "Python"
+# print(my_profile)
 
-# if "age" in my:
-#     print(my['age'])
+# if "age" in my_profile:
+#     print(my_profile['age'])
 # else:
 #     print("Возраст неизвестен")
 
-# for key in my:
+# for key in my_profile:
 #     print(key)
 
-# for key, value in my.items():
+# for key, value in my_profile.items():
 #     print(key, value)
