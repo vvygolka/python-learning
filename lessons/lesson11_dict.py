@@ -1,9 +1,9 @@
-my_profile = {
-    "name": "Влад",
-    "age": 28,
-    "city": "Москва",
-    "profession": "QA"
-}
+# my_profile = {
+#     "name": "Влад",
+#     "age": 28,
+#     "city": "Москва",
+#     "profession": "QA"
+# }
 
 # print(my_profile["name"])
 # print(my_profile["profession"])
@@ -13,7 +13,7 @@ my_profile = {
 # print(my_profile)
 
 # if "age" in my_profile:
-#     print(my_profile['age'])
+#     print(my_profile["age"])
 # else:
 #     print("Возраст неизвестен")
 
