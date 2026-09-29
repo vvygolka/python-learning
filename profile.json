@@ -1,0 +1,8 @@
+{
+    "name": "Влад",
+    "city": "Москва",
+    "contacts": {
+        "phone": "79990000000",
+        "email": "test@test.ru"
+    }
+}

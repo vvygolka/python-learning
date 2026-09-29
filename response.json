@@ -1,0 +1,20 @@
+{
+    "success": true,
+    "user": {
+        "name": "Влад"
+    },
+    "cards": [
+        {
+            "bank": "Т-Банк",
+            "active": true
+        },
+        {
+            "bank": "Сбер",
+            "active": false
+        },
+        {
+            "bank": "Альфа-Банк",
+            "active": true
+        }
+    ]
+}
